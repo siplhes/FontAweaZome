@@ -23,3 +23,5 @@ Changelog
 
 1.0 - Jan 07, 2017
 -Code improved.
+
+Note: this mod include a JavaScript CDN and always is get reports from our forums about errors from FontAweasome. it's all secure.
