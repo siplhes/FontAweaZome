@@ -27,8 +27,7 @@ $txt['time'] = 'Insert Font Aweasome BBC';
  <file name="$themedir/index.template.php">
 	<operation>
 				<search position="before"><![CDATA[
-	// Here comes the JavaScript bits!
-	echo '
+	<script type="text/javascript" src="', $settings['theme_url'], '/scripts/theme.js?fin20"></script>
 			]]></search>
 			<add><![CDATA[
 <script src="https://use.fontawesome.com/aa22eb6168.js"></script>
